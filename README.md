@@ -1,4 +1,4 @@
-#[Seu Nome] - Portfólio
+[Seu Nome] - Portfólio
 
 Olá! 👋 Bem-vindo ao meu portfólio! Aqui você encontrará uma seleção de meus projetos, habilidades e experiências.
 
@@ -8,10 +8,11 @@ Quem sou eu?
 
 O que você encontrará aqui?
 
-    Projetos: Uma demonstração de meus trabalhos, incluindo [mencione os tipos de projetos, como sites, aplicativos, jogos, etc.].
-    Habilidades: Minhas habilidades técnicas e soft skills, incluindo [mencione suas habilidades, como linguagens de programação, frameworks, ferramentas, etc.].
-    Experiência: Um resumo de minhas experiências profissionais e acadêmicas.
-    Contato: Como entrar em contato comigo para oportunidades de trabalho ou colaborações.
+
+Projetos: Uma demonstração de meus trabalhos, incluindo [mencione os tipos de projetos, como sites, aplicativos, jogos, etc.].
+Habilidades: Minhas habilidades técnicas e soft skills, incluindo [mencione suas habilidades, como linguagens de programação, frameworks, ferramentas, etc.].
+Experiência: Um resumo de minhas experiências profissionais e acadêmicas.
+Contato: Como entrar em contato comigo para oportunidades de trabalho ou colaborações.
 
 
 Estou em constante aprendizado e desenvolvimento, buscando sempre aprimorar minhas habilidades e criar projetos inovadores. Espero que este portfólio demonstre meu potencial e minhas capacidades.
