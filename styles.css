@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.titulo {
+    font-size: 2em;
+    color: #333;
+    text-transform: uppercase;
+    border-bottom: 2px solid #f39c12;
+    padding-bottom: 5px;
+    margin-top: 50px;
+}
