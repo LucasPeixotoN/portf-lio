@@ -1,4 +1,4 @@
-[Seu Nome] - Portfólio
+#[Seu Nome] - Portfólio
 
 Olá! 👋 Bem-vindo ao meu portfólio! Aqui você encontrará uma seleção de meus projetos, habilidades e experiências.
 
