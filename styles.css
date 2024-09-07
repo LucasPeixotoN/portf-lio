@@ -1,13 +1,15 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
     text-align: left;
+     
 }
 
 .titulo {
     font-size: 2em;
     color: #333;
     text-transform: uppercase;
-    border-bottom: 2px solid #f39c12;
+    border-bottom: 2px solid #201f20;
     padding-bottom: 5px;
     margin-top: 50px;
+    text-align: center;
 }
